@@ -55,6 +55,8 @@ Xiexie - jump/fall animations [(link)](https://github.com/Xiexe/OldPatreonExclus
 
 Blender - constraints and bake action features that both drove me mad and made my shit actually not shit
 
+Mixamo-modified - AFK Animation - Modified Male Sit Animation [(link)](https://helpx.adobe.com/creative-cloud/faq/mixamo-faq.html)
+
 ---
 
 Here is the block of text where I tell you it's not my fault if you're bad at Unity.
