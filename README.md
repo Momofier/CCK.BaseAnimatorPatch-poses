@@ -57,6 +57,8 @@ Blender - constraints and bake action features that both drove me mad and made m
 
 Mixamo-modified - AFK Animation - Modified Male Sit Animation [(link)](https://helpx.adobe.com/creative-cloud/faq/mixamo-faq.html)
 
+Mixamo - The 1st 14 Pose Animations [(link)](https://helpx.adobe.com/creative-cloud/faq/mixamo-faq.html)
+
 ---
 
 Here is the block of text where I tell you it's not my fault if you're bad at Unity.
