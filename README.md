@@ -23,6 +23,7 @@ I do not want to release a locomotion prefab that has to mitigate animation blee
 * Improved crouch idle to prevent feet clipping.
 * Parameter to easily change Motion speed.
 * Desktop smooth stand, crouch, and prone transitions.
+* Many Many Poses
 
 # note
 this animator makes heavy use of transition interupts and transition order, so messing with any built-in transitions may break functionality or make the animator feel more clunky
@@ -56,6 +57,8 @@ Xiexie - jump/fall animations [(link)](https://github.com/Xiexe/OldPatreonExclus
 Blender - constraints and bake action features that both drove me mad and made my shit actually not shit
 
 Mixamo-modified - AFK Animation - Modified Male Sit Animation [(link)](https://helpx.adobe.com/creative-cloud/faq/mixamo-faq.html)
+
+Mixamo - The 1st 14 Pose Animations [(link)](https://helpx.adobe.com/creative-cloud/faq/mixamo-faq.html)
 
 ---
 
